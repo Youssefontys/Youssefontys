@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hallo, ik ben Youssef</h3>
 
 <p align="center">💻 HBO-ICT student aan Fontys Eindhoven, specialisatie <b>Cloud, DevOps & Cybersecurity</b><br/>
-🛡️ Yellow-team security engineer
+🛡️ Yellow-team security engineer<br/>
 ⚖️ Bouwt door naar een rechtenstudie informatierecht, de plek waar ICT en recht elkaar raken<br/>
 📍 Roermond, Nederland</p>
 
