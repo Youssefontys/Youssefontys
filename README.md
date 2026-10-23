@@ -2,7 +2,7 @@
 
 <p align="center">💻 HBO-ICT student aan Fontys Eindhoven, specialisatie <b>Cloud, DevOps & Cybersecurity</b><br/>
 🛡️ Yellow-team security engineer
-⚖️ Bouwt door naar een rechtenstudie, met AVG/NIS2/AI Act als de plek waar ICT en recht elkaar raken<br/>
+⚖️ Bouwt door naar een rechtenstudie informatierecht, de plek waar ICT en recht elkaar raken<br/>
 📍 Roermond, Nederland</p>
 
 <br/>
